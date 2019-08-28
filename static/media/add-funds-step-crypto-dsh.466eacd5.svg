@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 138 138" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;">
+    <g id="Camada_1-2">
+        <path d="M19.52,98.83C23.281,104.933 28.14,110.287 33.85,114.62" style="fill:none;stroke:rgb(163,175,183);stroke-width:1px;"/>
+        <path d="M101.77,21.46C92.076,14.673 80.524,11.032 68.691,11.032C37.048,11.032 11.011,37.069 11.011,68.712C11.011,73.784 11.679,78.833 13,83.73" style="fill:none;stroke:rgb(163,175,183);stroke-width:1px;"/>
+        <path d="M54.25,124.49C58.953,125.702 63.79,126.316 68.647,126.316C100.284,126.316 126.317,100.283 126.317,68.646C126.317,56.151 122.256,43.989 114.75,34" style="fill:none;stroke:rgb(163,175,183);stroke-width:1px;"/>
+        <path d="M76.78,47.37L57.69,47.37L56.11,56.22L73.34,56.22C81.82,56.22 84.34,59.3 84.26,64.41C84.044,67.296 83.487,70.146 82.6,72.9C81.29,76.73 78.6,81.09 68.53,81.08L51.78,81.08L50.2,89.94L69.2,89.94C75.92,89.94 78.78,89.16 81.8,87.76C88.56,84.66 92.56,78 94.16,69.4C96.54,56.53 93.57,47.37 76.78,47.37Z" style="fill:none;stroke:rgb(163,175,183);stroke-width:1px;"/>
+        <path d="M49.45,64.21C44.45,64.21 43.73,67.47 43.26,69.44C42.64,72.02 42.43,73.07 42.43,73.07L62,73.07C67,73.07 67.71,69.81 68.19,67.84C68.81,65.26 69.01,64.21 69.01,64.21L49.45,64.21Z" style="fill:none;stroke:rgb(163,175,183);stroke-width:1px;"/>
+    </g>
+</svg>

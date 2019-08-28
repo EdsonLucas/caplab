@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 138 138" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;">
+    <g id="Camada_1-2">
+        <path d="M19.52,98.83C23.281,104.933 28.14,110.287 33.85,114.62" style="fill:none;stroke:rgb(163,175,183);stroke-width:1px;"/>
+        <path d="M101.77,21.46C92.076,14.673 80.524,11.032 68.691,11.032C37.048,11.032 11.011,37.069 11.011,68.712C11.011,73.784 11.679,78.833 13,83.73" style="fill:none;stroke:rgb(163,175,183);stroke-width:1px;"/>
+        <path d="M54.25,124.49C58.953,125.702 63.79,126.316 68.647,126.316C100.284,126.316 126.317,100.283 126.317,68.646C126.317,56.151 122.256,43.989 114.75,34" style="fill:none;stroke:rgb(163,175,183);stroke-width:1px;"/>
+        <g transform="matrix(8.61421,0,0,8.61421,-21.2343,-18.004)">
+            <path d="M10,12.41L10.51,10.48L11.71,10L12,8.91L10.81,9.35L11.67,6.12L9.24,6.12L8.11,10.3L7.18,10.65L6.87,11.81L7.8,11.47L7.14,14L13.62,14L14,12.41L10,12.41" style="fill:none;stroke:rgb(163,175,183);stroke-width:0.12px;stroke-linecap:butt;stroke-miterlimit:1.41421;"/>
+        </g>
+    </g>
+</svg>

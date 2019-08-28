@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="29.986111mm"
+   height="29.986111mm"
+   viewBox="0 0 29.986111 29.986111"
+   version="1.1"
+   id="svg7947"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="wallet-destination.svg">
+  <defs
+     id="defs7941" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="-15.334725"
+     inkscape:cy="43.951297"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1368"
+     inkscape:window-height="713"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7944">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-60.602183,-158.7867)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path616"
+       style="fill:#f5f6f5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277775"
+       d="m 90.525297,173.65377 c 0,-8.2804 -6.71266,-14.99306 -14.99305,-14.99306 -8.280404,0 -14.993059,6.71266 -14.993059,14.99306 0,8.28039 6.712655,14.99305 14.993059,14.99305 8.28039,0 14.99305,-6.71266 14.99305,-14.99305" />
+    <g
+       id="g1650"
+       transform="matrix(0.35277777,0,0,-0.35277777,70.153405,167.67602)">
+      <path
+         d="M 0,0 H 27.693"
+         style="fill:none;stroke:#a3afb7;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path1652"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g1654"
+       transform="matrix(0.35277777,0,0,-0.35277777,84.205247,176.35456)">
+      <path
+         d="m 0,0 h -11.565 c -1.996,0 -3.614,1.554 -3.614,3.472 0,1.917 1.618,3.471 3.614,3.471 H 0 Z"
+         style="fill:none;stroke:#a3afb7;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path1656"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g1658"
+       transform="matrix(0.35277777,0,0,-0.35277777,83.081127,173.90508)">
+      <path
+         d="m 0,0 v 10.401 c 0,1.794 -1.454,3.248 -3.248,3.248 H -3.83 -38.012 c -2.786,0 -5.044,2.258 -5.044,5.044 v -34.818 c 0,-1.794 1.454,-3.248 3.247,-3.248 h 36.561 c 1.794,0 3.248,1.454 3.248,3.248 v 9.182 H 3.187 V 0 Z"
+         style="fill:none;stroke:#a3afb7;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path1660"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g1662"
+       transform="matrix(0.35277777,0,0,-0.35277777,67.891853,167.3346)">
+      <path
+         d="m 0,0 v 1.306 c 0,0.479 0.388,0.867 0.867,0.867 h 37.696 c 0.367,0 0.664,-0.297 0.664,-0.663 v -6.486"
+         style="fill:none;stroke:#a3afb7;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path1664"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
