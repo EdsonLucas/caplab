@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 128.62 39.71"
+   version="1.1"
+   id="svg56"
+   sodipodi:docname="capitual-brand.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata60">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview58"
+     showgrid="false"
+     inkscape:zoom="2.20028"
+     inkscape:cx="64.309998"
+     inkscape:cy="19.855"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Camada_2" />
+  <defs
+     id="defs16">
+    <style
+       id="style2">.cls-1{fill:#1e1e2d;}.cls-2{fill:url(#Gradiente_sem_nome_11);}.cls-3{fill:url(#Gradiente_sem_nome_22);}.cls-4{fill:aqua;}</style>
+    <linearGradient
+       id="Gradiente_sem_nome_11"
+       x1="31.86"
+       y1="35.73"
+       x2="22.32"
+       y2="26.18"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#b321fe"
+         id="stop4" />
+      <stop
+         offset="1"
+         stop-color="#8321fe"
+         id="stop6" />
+    </linearGradient>
+    <linearGradient
+       id="Gradiente_sem_nome_22"
+       x1="26.3"
+       y1="8.87"
+       x2="4.57"
+       y2="30.6"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="aqua"
+         id="stop9" />
+      <stop
+         offset="0.5"
+         stop-color="#08e1fe"
+         id="stop11" />
+      <stop
+         offset="1"
+         stop-color="#0593fe"
+         id="stop13" />
+    </linearGradient>
+  </defs>
+  <title
+     id="title18">capitual-brand</title>
+  <g
+     id="Camada_2"
+     data-name="Camada 2">
+    <g
+       id="g92">
+      <path
+         class="cls-1"
+         d="m 44.3,18.48 c 0,-3.42 2,-5.48 6,-5.48 a 8.27,8.27 0 0 1 2,0.26 c 0.86,0.21 1,0.44 1,1.3 v 0.34 c 0,0.92 -0.26,1.1 -1.09,0.87 A 5.82,5.82 0 0 0 50.27,15.5 c -2.5,0 -3.39,0.84 -3.39,3 V 21 c 0,2.28 1,3 3.58,3 a 11.26,11.26 0 0 0 2,-0.23 c 0.86,-0.18 1.07,0 1.07,0.89 V 25 c 0,0.86 -0.24,1.1 -1.1,1.31 a 8.84,8.84 0 0 1 -2.12,0.26 c -4.17,0 -6.13,-1.83 -6.13,-5.49 z"
+         id="path28"
+         inkscape:connector-curvature="0"
+         style="fill:#1e1e2d" />
+      <path
+         class="cls-1"
+         d="m 66.06,22.35 c 0,2.9 -1.7,4.18 -5.57,4.18 -3.52,0 -5.3,-1.33 -5.3,-4 0,-2.67 1.88,-3.94 5.33,-3.94 h 2.87 v -1.31 c 0,-1.54 -1,-2 -3.08,-2 a 13.88,13.88 0 0 0 -2.74,0.23 c -0.76,0.13 -1,0 -1,-0.84 v -0.36 c 0,-0.76 0.21,-1 0.94,-1.12 A 16.33,16.33 0 0 1 60.15,13 c 3.79,0 5.91,1.17 5.91,4.28 z M 63.39,20.6 h -2.87 c -1.8,0 -2.64,0.52 -2.64,1.85 0,1.33 1,1.8 2.56,1.8 2,0 3,-0.39 3,-2 z"
+         id="path30"
+         inkscape:connector-curvature="0"
+         style="fill:#1e1e2d" />
+      <path
+         class="cls-1"
+         d="m 67.6,18.56 c 0,-3.73 2.19,-5.56 6,-5.56 4,0 6,1.77 6,5.56 v 2.27 c 0,3.79 -1.81,5.7 -5.44,5.7 -1.85,0 -3.13,-0.58 -3.84,-1.7 v 4.79 c 0,0.94 -0.23,1.18 -1.17,1.18 h -0.31 c -1,0 -1.18,-0.24 -1.18,-1.18 z m 9.25,0.08 c 0,-2.2 -0.68,-3.14 -3.27,-3.14 -2.59,0 -3.32,0.94 -3.32,3.14 v 2.25 c 0,2.16 0.74,3.1 3.32,3.1 2.58,0 3.27,-0.91 3.27,-3.1 z"
+         id="path32"
+         inkscape:connector-curvature="0"
+         style="fill:#1e1e2d" />
+      <path
+         class="cls-1"
+         d="m 83.89,11.51 a 1.61,1.61 0 0 0 0,-2.32 1.6404877,1.6404877 0 1 0 -2.32,2.32 1.66,1.66 0 0 0 2.32,0 z"
+         id="path34"
+         inkscape:connector-curvature="0"
+         style="fill:#1e1e2d" />
+      <rect
+         class="cls-1"
+         x="81.389999"
+         y="13.28"
+         width="2.6900001"
+         height="12.96"
+         rx="1.1799999"
+         ry="1.1799999"
+         id="rect36"
+         style="fill:#1e1e2d" />
+      <path
+         class="cls-1"
+         d="m 85.93,14.33 c 0,-0.73 0.18,-0.94 0.88,-1.07 L 88.2,13 88.51,10.55 c 0.11,-0.76 0.32,-0.94 1.07,-0.94 h 0.34 c 0.76,0 0.94,0.18 0.94,0.94 V 13 h 3.66 c 0.86,0 1.1,0.18 1.1,1.1 v 0.31 c 0,0.92 -0.24,1.1 -1.1,1.1 h -3.66 v 6.21 c 0,1.52 0.68,2.27 2,2.27 A 8.66,8.66 0 0 0 95,23.76 c 0.86,-0.18 1.07,0 1.07,0.91 V 25 c 0,0.86 -0.21,1.12 -1.07,1.3 a 11.72,11.72 0 0 1 -2.12,0.21 c -3.13,0 -4.7,-1.59 -4.7,-4.81 v -6.19 h -1.34 c -0.73,0 -0.91,-0.18 -0.91,-0.91 z"
+         id="path38"
+         inkscape:connector-curvature="0"
+         style="fill:#1e1e2d" />
+      <path
+         class="cls-1"
+         d="m 100.32,21.43 c 0,1.78 0.68,2.56 3,2.56 2.32,0 3,-0.78 3,-2.56 v -7.26 c 0,-0.94 0.24,-1.17 1.18,-1.17 h 0.34 c 0.94,0 1.17,0.23 1.17,1.17 v 7.26 c 0,3.37 -1.69,5.1 -5.67,5.1 -3.78,0 -5.69,-1.7 -5.69,-5.1 v -7.26 c 0,-0.94 0.24,-1.17 1.18,-1.17 h 0.34 c 0.94,0 1.17,0.23 1.17,1.17 z"
+         id="path40"
+         inkscape:connector-curvature="0"
+         style="fill:#1e1e2d" />
+      <path
+         class="cls-1"
+         d="m 121.4,22.35 c 0,2.9 -1.7,4.18 -5.56,4.18 -3.53,0 -5.3,-1.33 -5.3,-4 0,-2.67 1.88,-3.94 5.32,-3.94 h 2.88 v -1.31 c 0,-1.54 -1,-2 -3.08,-2 a 14,14 0 0 0 -2.75,0.23 c -0.75,0.13 -1,0 -1,-0.84 v -0.36 c 0,-0.76 0.21,-1 0.94,-1.12 A 16.33,16.33 0 0 1 115.5,13 c 3.79,0 5.9,1.17 5.9,4.28 z m -2.66,-1.75 h -2.88 c -1.8,0 -2.63,0.52 -2.63,1.85 0,1.33 1,1.8 2.56,1.8 2,0 2.95,-0.39 2.95,-2 z"
+         id="path42"
+         inkscape:connector-curvature="0"
+         style="fill:#1e1e2d" />
+      <path
+         class="cls-1"
+         d="m 122.94,9.81 c 0,-0.94 0.24,-1.18 1.18,-1.18 h 0.34 c 0.94,0 1.18,0.24 1.18,1.18 v 12.25 c 0,1.39 0.39,1.86 1.22,1.86 0.83,0 1,0.13 1,1 v 0.26 c 0,0.86 -0.21,1 -1.08,1.2 a 1.34,1.34 0 0 1 -0.36,0 c -2.09,0 -3.48,-1.23 -3.48,-3.87 z"
+         id="path44"
+         inkscape:connector-curvature="0"
+         style="fill:#1e1e2d" />
+      <path
+         class="cls-2"
+         d="M 39.18,22.05 38.32,21.19 35.22,18.09 34,16.86 v 0 a 14.42,14.42 0 0 1 -3.4,12.63 l -0.51,0.53 -0.54,0.52 a 14.42,14.42 0 0 1 -19.32,0 H 6.68 c 0.29,0.53 0.61,1 1,1.55 A 17.61,17.61 0 0 0 39.7,23.46 1.79,1.79 0 0 0 39.18,22.05 Z"
+         id="path46"
+         style="fill:url(#Gradiente_sem_nome_11)"
+         inkscape:connector-curvature="0" />
+      <path
+         class="cls-1"
+         d="m 34,16.86 -4.43,0.55 a 1.86,1.86 0 0 0 -1.62,2 8.07,8.07 0 1 1 -7.56,-7.6 1.83,1.83 0 0 0 1.91,-1.62 L 22.86,5.76 A 14.39,14.39 0 0 0 10.23,9.16 L 9.69,9.67 9.18,10.21 a 14.42,14.42 0 0 0 20.36,20.33 l 0.54,-0.52 0.51,-0.53 A 14.42,14.42 0 0 0 34,16.86 Z"
+         id="path48"
+         inkscape:connector-curvature="0"
+         style="fill:#1e1e2d" />
+      <path
+         class="cls-3"
+         d="M 9.68,30 A 14.42,14.42 0 0 1 9.17,10.15 L 9.68,9.61 10.22,9.1 A 14.39,14.39 0 0 1 22.85,5.7 v 0 l -1.23,-1.22 -4,-3.95 A 1.76,1.76 0 0 0 16.25,0 17.61,17.61 0 0 0 5.16,30 17.08,17.08 0 0 0 7.63,32.06 17.63,17.63 0 0 0 29.54,30.52 14.43,14.43 0 0 1 9.68,30 Z"
+         id="path50"
+         style="fill:url(#Gradiente_sem_nome_22)"
+         inkscape:connector-curvature="0" />
+      <path
+         class="cls-4"
+         d="M 7.92,31.3 A 17.68,17.68 0 0 1 5.45,29.25 17.37,17.37 0 0 1 0.77,12.4 17.61,17.61 0 0 0 5.16,30 17.08,17.08 0 0 0 7.63,32.06 17.63,17.63 0 0 0 29.54,30.52 14.31,14.31 0 0 1 21.82,34.09 17.44,17.44 0 0 1 7.92,31.3 Z"
+         id="path52"
+         inkscape:connector-curvature="0"
+         style="fill:#00ffff" />
+    </g>
+  </g>
+</svg>
